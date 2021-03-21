@@ -1,0 +1,20 @@
+C:\Users\obaca\Desktop\connect four\connect four\bin\Debug\connect four.exe.config
+C:\Users\obaca\Desktop\connect four\connect four\bin\Debug\connect four.exe
+C:\Users\obaca\Desktop\connect four\connect four\bin\Debug\connect four.pdb
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect four.csprojAssemblyReference.cache
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect_four.Form1.resources
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect_four.Properties.Resources.resources
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect four.csproj.GenerateResource.cache
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect four.csproj.CoreCompileInputs.cache
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect four.exe
+C:\Users\obaca\Desktop\connect four\connect four\obj\Debug\connect four.pdb
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\bin\Debug\connect four.exe.config
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\bin\Debug\connect four.exe
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\bin\Debug\connect four.pdb
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect four.csprojAssemblyReference.cache
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect_four.Form1.resources
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect_four.Properties.Resources.resources
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect four.csproj.GenerateResource.cache
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect four.csproj.CoreCompileInputs.cache
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect four.exe
+C:\Users\obaca\Desktop\Ovi\Atestat - Ovidiu\connect four\connect four\obj\Debug\connect four.pdb
